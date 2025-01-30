@@ -171,7 +171,7 @@ h4 {font-size: 20px; line-height: 24px;}
 .course-con .course-box .price .number {font-size: 46px; line-height: 46px;}
 .course-con .course-box .price .value {font-size: 28px; line-height: 28px;}
 .course-con .course-box .course-image {margin-bottom: 24px;}
-.course-con .course-box .course-image img {width: auto; height: auto;}
+/* .course-con .course-box .course-image img {width: auto; height: auto;} */
 .course-con .course-box p {margin-bottom: 12px; min-height: 96px;}
 .course-con .owl-theme .owl-nav {margin-top: 22px;}
 .about-con {padding: 80px 0;}
@@ -1200,7 +1200,7 @@ h2 {font-size: 26px; line-height: 30px;}
 .sponsor-con ul li figure img {width: 75px;}
 .sponsor-con ul li .haus img {width: 45px;}
 .sponsor-con ul li .logoipsum img {width: 110px;}
-.footer-con .upper_portion .footer-logo img {width: auto;}
+/* .footer-con .upper_portion .footer-logo img {width: auto;} */
 .footer-con .upper_portion a {font-size: 14px; line-height: 14px;}
 .footer-con .upper_portion ul li {margin: 0 10px;}
 .copyright .text {display: block;}
